@@ -12,7 +12,7 @@
     </div>
     <nav>
       <ul>
-        <li><a href="index.html">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="dropdown">
           <a class="dropbtn">Articles
             <i class="fa fa-caret-down"></i>
@@ -24,7 +24,7 @@
           </div>
         </li>
         <li><a href="#">Videos</a></li>
-        <li><a href="contact.html">Contact me</a></li>
+        <li><a href="contact.php">Contact me</a></li>
       </ul>
     </nav>
     <div class="backim">
